@@ -1,6 +1,5 @@
 # Resources
 
-The following resources can help you better understand the concepts, elements, and APIs presented in this course.
 
 ## HTML
 
